@@ -1,6 +1,6 @@
 # Hi, I´m Amaury Santiago Horta 👋
 ## 👨‍💻 About me
-Soy un Ingeniero en Biónica con una Maestría en Tecnología Avanzada, apasionado por la intersección entre la tecnología, la inteligencia artificial y el procesamiento de señales para aplicaciones en el sector salud.
+
   I'm a Bionics Engeneeering, currently studying the last semester of Master's degree in Advanced Technology. My projects're focus on join technology, Artificial Intelligence and Biosignal Proccessing oriented to healthcare.
   
 ## 🚀 Experience
