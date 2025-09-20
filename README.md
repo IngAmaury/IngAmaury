@@ -1,7 +1,7 @@
-# Hi, I´m Amaury Santiago Horta 👋
+<h1 align="center"> Hi, I´m Amaury Santiago Horta 👋 </h1>
 ## 👨‍💻 About me
 
-  I'm a Bionics Engeneeering, currently studying the last semester of Master's degree in Advanced Technology. My projects're focus on join technology, Artificial Intelligence and Biosignal Proccessing oriented to healthcare.
+ <h3 align="center"> I'm a Bionics Engeneeering, currently studying the last semester of Master's degree in Advanced Technology. My projects're focus on join technology, Artificial Intelligence and Biosignal Proccessing oriented to healthcare. </h3>
   
 ## 🚀 Experience
 
