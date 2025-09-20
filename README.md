@@ -44,10 +44,10 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 -
 - Bionics Engineering - Instituto Politécnico Nacional (January 2023)
 
 ## 📝 Publications
-- "Assessment of emotions and stress in drivers to promote safe driving" (In progress) 
-- " (Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In)[https://www.mdpi.com/2078-2489/14/12/626] " -  MDPI Open Access Journals 2023
-- " (Stress Detection Protocol in Vehicular Driving using Virtual Reality)[https://ieeexplore.ieee.org/abstract/document/10332850] " - Presented at CCE International Conference 2023
-- "Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot" - Bachelor's Thesis, 2023
+- **Assessment of emotions and stress in drivers to promote safe driving** (In progress) 
+- **[Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In](https://www.mdpi.com/2078-2489/14/12/626)** - MDPI Open Access Journals 2023
+- **[Stress Detection Protocol in Vehicular Driving using Virtual Reality](https://ieeexplore.ieee.org/abstract/document/10332850)** - Presented at CCE International Conference 2023
+- **Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot** - Bachelor's Thesis, 2023
 
 ## 💻 Technical Skills
 - Languages: Python, TypeScript, HTML/CSS, LaTeX, MATLAB
@@ -67,7 +67,7 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 -
 ## 📫 Contact
 - 📧 Email: hortamaury@gmail.com
 - 📱 Phone: +52 5611075317
-- 💼 LinkedIn: [amaury-sh](www.linkedin.com/in/amaury-sh)
+- 💼 LinkedIn: [amaury-sh](https://www.linkedin.com/in/amaury-sh)
 - 🏙️ Location: Mexico City, Mexico
 
 ## ⚡ Interests
