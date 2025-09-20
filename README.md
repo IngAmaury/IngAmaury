@@ -1,75 +1,72 @@
-Hola, soy Amaury Santiago Horta 👋
-👨‍💻 Acerca de mí
+# Hi, I´m Amaury Santiago Horta 👋
+## 👨‍💻 About me
 Soy un Ingeniero en Biónica con una Maestría en Tecnología Avanzada, apasionado por la intersección entre la tecnología, la inteligencia artificial y el procesamiento de señales para aplicaciones en el sector salud.
+  I'm a Bionics Engeneeering, currently studying the last semester of Master's degree in Advanced Technology. My projects're focus on join technology, Artificial Intelligence and Biosignal Proccessing oriented to healthcare.
+  
+## 🚀 Experience
 
-🚀 Experiencia
-Investigador - Programa Institucional de Formación de Investigadores (PIFI)
+### Research Fellow -  Institutional Program for Researh Training (PIFI)
 Instituto Politécnico Nacional | *Feb 2024 - Jul 2024*
 
-Análisis y preprocesamiento de datasets de EEG de pacientes con epilepsia.
+- Analysis and pre-proccessing patient's Electroencephalography (EEG) Datasets with epilepsy.
 
-Desarrollo y optimización de arquitecturas de Redes Neuronales Convolucionales (CNN) para la detección automatizada de eventos de convulsiones.
+- Develop Convolutional Neural Network (CNN) for for the automated detection of seizure crises.
 
-Asistente de Investigación
-Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Feb 2023 - Ago 2023*
+### Research Assistant
+Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Feb 2023 - Aug 2023*
 
-Análisis de datos y verificación de resultados para artículos científicos.
+- Data analysis and results verification for scientific articles.
 
-Gestión de inventario y protocolos experimentales con participantes humanos.
+- Inventory management and experimental protocols with human participants.
 
-Diseño y actualización del sitio web de investigación del laboratorio.
+- Design and update of the laboratory's research website.
 
-Desarrollador Full-Stack
-Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jul 2022 - Ene 2023*
+### Full-Stack Developer
+Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jul 2022 - Jan 2023*
 
-Desarrollo de soluciones web para la gestión y visualización de información científica.
+- Developed web solutions for management and visualization of scientific information.
 
-Pruebas de APIs RESTful con Postman y desarrollo backend con Django.
+- Tested RESTful APIs with Postman and developed backend with Django.
 
-Colaboración en equipos multidisciplinarios usando metodologías ágiles.
+- Collaborated in multidisciplinary teams using agile methodologies.
 
-Servicio Social
-Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Ene 2022 - Jun 2022*
+### Junior Researcher
+Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 - Jun 2022*
 
-Desarrollo de protocolos experimentales para inducción controlada de estrés.
+- Developed experimental protocols for controlled stress induction.
 
-Adquisición y análisis de señales fisiológicas (EEG, PPG, EDA).
+- Acquired and analyzed physiological signals (EEG, PPG, EDA).
 
-Autor de artículo de investigación presentado en conferencia internacional CCE.
+- Authored a research paper presented at the international CCE conference.
 
-📚 Educación
-Maestría en Tecnología Avanzada - Instituto Politécnico Nacional (En curso)
+## 📚 Education
+- Master's in Advanced Technology - Instituto Politécnico Nacional (In progress)
 
-Ingeniería en Biónica - Instituto Politécnico Nacional (Enero 2023)
+- Bionics Engineering - Instituto Politécnico Nacional (January 2023)
 
-💻 Habilidades Técnicas
-Lenguajes: Python, TypeScript, HTML/CSS, LaTeX, MATLAB
+## 💻 Technical Skills
+- Languages: Python, TypeScript, HTML/CSS, LaTeX, MATLAB
 
-Frameworks: Angular, Django
+- Frameworks: Angular, Django
 
-Especialidades: Machine Learning, Procesamiento de Señales, Inteligencia Artificial
+- Specialties: Machine Learning, Signal Processing, Artificial Intelligence
 
-Herramientas: Git, Postman, Jira
+- Tools: Github, Postman, Jira, Figma
 
-🌍 Idiomas
-Español (Nativo)
+## 🌍 Languages
+- Spanish (Native)
+- English (B1+)
+- Japanese (N5)
+- Mexican Sign Language (A2)
 
-Inglés (B1+)
+## 📫 Contact
+- 📧 Email: hortamaury@gmail.com
+- 📱 Phone: +52 5611075317
+- 💼 LinkedIn: linkedin.com/in/amaury-sh
+- 🏙️ Location: Mexico City, Mexico
 
-Japonés (N5)
+## ⚡ Interests
 
-Lengua de Señas Mexicana (A2)
+Coding challenges | Signal processing | Technology research | Artificial intelligence | Healthcare
 
-📫 Contacto
-📧 Email: hortamaury@gmail.com
-
-📱 Teléfono: +52 5611075317
-
-💼 LinkedIn: linkedin.com/in/amaury-sh
-
-🏙️ Ubicación: Ciudad de México, México
-
-⚡ Intereses
-Desafíos de programación | Procesamiento de señales | Investigación tecnológica | Inteligencia artificial | Sector salud
-
-⭐ Desde mi perfil de GitHub puedes ver mis proyectos y contribuciones. ¡No dudes en contactarme para colaborar!
+⭐ From my GitHub profile you can see my projects and contributions. Feel free to contact me to collaborate!
