@@ -4,14 +4,14 @@
   
 ## 🚀 Experience
 
-### Research Fellow -  Institutional Program for Researh Training (PIFI)
+### 🔹 Research Fellow -  Institutional Program for Researh Training (PIFI)
 Instituto Politécnico Nacional | *Feb 2024 - Jul 2024*
 
 - Analysis and pre-proccessing patient's Electroencephalography (EEG) Datasets with epilepsy.
 
 - Develop Convolutional Neural Network (CNN) for for the automated detection of seizure crises.
 
-### Research Assistant
+### 🔹 Research Assistant
 Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Feb 2023 - Aug 2023*
 
 - Data analysis and results verification for scientific articles.
@@ -20,7 +20,7 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Feb 2023 -
 
 - Design and update of the laboratory's research website.
 
-### Full-Stack Developer
+### 🔹 Full-Stack Developer
 Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jul 2022 - Jan 2023*
 
 - Developed web solutions for management and visualization of scientific information.
@@ -29,7 +29,7 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jul 2022 -
 
 - Collaborated in multidisciplinary teams using agile methodologies.
 
-### Junior Researcher
+### 🔹 Junior Researcher
 Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 - Jun 2022*
 
 - Developed experimental protocols for controlled stress induction.
@@ -44,22 +44,32 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 -
 - Bionics Engineering - Instituto Politécnico Nacional (January 2023)
 
 ## 📝 Publications
-- **Assessment of emotions and stress in drivers to promote safe driving** (In progress) 
-- **[Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In](https://www.mdpi.com/2078-2489/14/12/626)** - MDPI Open Access Journals 2023
-- **[Stress Detection Protocol in Vehicular Driving using Virtual Reality](https://ieeexplore.ieee.org/abstract/document/10332850)** - Presented at CCE International Conference 2023
-- **Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot** - Bachelor's Thesis, 2023
+- ''Assessment of emotions and stress in drivers to promote safe driving'' - Master's Thesis, (In progress) 
+- ''Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In'' [➡️](https://www.mdpi.com/2078-2489/14/12/626) - MDPI Open Access Journals 2023
+- ''Stress Detection Protocol in Vehicular Driving using Virtual Reality'' [➡️](https://ieeexplore.ieee.org/abstract/document/10332850) - Presented at CCE International Conference 2023
+- ''Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot'' - Bachelor's Thesis, 2023
 
 ## 💻 Technical Skills
-- Languages: Python, TypeScript, HTML/CSS, LaTeX, MATLAB
+<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="LaTeX" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+<img align="left" alt="MATLAB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Django" width="40px" src="https://hackr.io/tutorials/learn-django/logo/logo-django?ver=1579862450" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Postman" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="Jira" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" /><br /><br />
 
+- Languages: Python, TypeScript, HTML/CSS, LaTeX, MATLAB 
 - Frameworks: Angular, Django
-
 - Specialties: Machine Learning, Signal Processing, Artificial Intelligence
-
-- Tools: Github, Postman, Jira, Figma
+- Tools: Visual Studio, Github, Postman, Jira, Figma
 
 ## 🌍 Languages
-- Spanish (Native)
+- Spanish (Native) 
 - English (B1+)
 - Japanese (N5)
 - Mexican Sign Language (A2)
