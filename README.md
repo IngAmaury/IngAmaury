@@ -44,10 +44,11 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 -
 - Bionics Engineering - Instituto Politécnico Nacional (January 2023)
 
 ## 📝 Publications
-- ''Assessment of emotions and stress in drivers to promote safe driving'' - Master's Thesis, (In progress) 
-- ''Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In'' [➡️](https://www.mdpi.com/2078-2489/14/12/626) - MDPI Open Access Journals 2023
-- ''Stress Detection Protocol in Vehicular Driving using Virtual Reality'' [➡️](https://ieeexplore.ieee.org/abstract/document/10332850) - Presented at CCE International Conference 2023
-- ''Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot'' - Bachelor's Thesis, 2023
+- "Assessment of emotions and stress in drivers to promote safe driving" - Master's Thesis, (In progress)
+- "Biomarkers for Stress and Sleepless Evaluation" [➡️](https://ieeexplore.ieee.org/document/11272029) - Presented at CCE International Conference 2025
+- "Collaboration System for Multidisciplinary Research with Essential Data Analysis Toolkit Built-In" [➡️](https://www.mdpi.com/2078-2489/14/12/626) - MDPI Open Access Journals 2023
+- "Stress Detection Protocol in Vehicular Driving using Virtual Reality" [➡️](https://ieeexplore.ieee.org/abstract/document/10332850) - Presented at CCE International Conference 2023
+- "Convolutional Neural Network for detecting Emotions and Polarity in text using chatbot" - Bachelor's Thesis, 2023
 
 ## 💻 Technical Skills
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -64,7 +65,7 @@ Laboratorio de Instrumentación y Procesamiento de Señales (LIPS) | *Jan 2022 -
 <img align="left" alt="Jira" width="40px" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" /><br /><br />
 
 - Languages: Python, TypeScript, HTML/CSS, LaTeX, MATLAB 
-- Frameworks: Angular, Django
+- Frameworks: Angular, Django, FastAPI.
 - Specialties: Machine Learning, Signal Processing, Artificial Intelligence
 - Tools: Visual Studio, Github, Postman, Jira, Figma
 
