@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I´m Amaury Santiago Horta 👋 </h1>
 
- <h3 align="center"> I'm a Bionics Engeneeering, currently studying the last semester of Master's degree in Advanced Technology with focus on software development. Interested in building scalable Full Stack applications that integrate Deep Learning models and real-time signal processing. Experience transforming complex data into user-centered products. </h3>
+ <h3 align="center"> I'm a Bionics Engeneering, currently studying the last semester of Master's degree in Advanced Technology with focus on software development. Interested in building scalable Full Stack applications that integrate Deep Learning models and real-time signal processing. Experience transforming complex data into user-centered products. </h3>
  
 ## 🗃️ Projects
 - 💳 CreditSim (React + FastAPI) [See➡️](https://github.com/IngAmaury/CreditSim)
